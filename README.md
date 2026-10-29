@@ -73,19 +73,28 @@
       <a href="https://github.com/alaapjoshi/SustainableSwap">Code</a> · <a href="https://devpost.com/software/sustainableswap">Devpost</a>
     </td>
     <td width="50%" valign="top">
-      <h4>👁️ ZardonVision · 🥈 2nd Overall, MontyHacks VI</h4>
+      <a href="https://devpost.com/software/zardon-vision"><img src="assets/zardonvision.png" alt="ZardonVision"/></a>
+      <h4><a href="https://devpost.com/software/zardon-vision">ZardonVision</a> · 🥈 2nd Overall, MontyHacks VI</h4>
       Voice-controlled accessibility app for visually impaired users. Uses OCR and object detection to describe the scene out loud.
       <br/><br/>
       <code>SwiftUI</code> <code>UIKit</code> <code>Flask</code> <code>PyTorch</code>
       <br/><br/>
       <a href="https://devpost.com/software/zardon-vision">Devpost</a>
-      <br/><br/><hr/>
-      <h4>🦾 PT@Home · HackRU Fall 2026</h4>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://devpost.com/software/pt-home"><img src="assets/pt-home.png" alt="PT@Home"/></a>
+      <h4><a href="https://devpost.com/software/pt-home">PT@Home</a> · HackRU Fall 2026</h4>
       Battery-powered wearable for at-home physical therapy. Two MPU gyroscopes on an nRF52832 track each exercise, mirror it on a 3D avatar, and let a therapist review progress remotely.
       <br/><br/>
       <code>nRF52832</code> <code>MPU gyroscopes</code> <code>3D avatar</code>
       <br/><br/>
       <a href="https://devpost.com/software/pt-home">Devpost</a>
+    </td>
+    <td width="50%" valign="middle" align="center">
+      <h3>🏆 15 hackathon awards</h3>
+      <a href="https://devpost.com/alaapjoshi">See everything on Devpost →</a>
     </td>
   </tr>
 </table>
@@ -117,11 +126,16 @@ All projects → [devpost.com/alaapjoshi](https://devpost.com/alaapjoshi)
 <img src="https://skillicons.dev/icons?i=react,flask,fastapi,firebase,postgres,svelte,nodejs" alt="React / React Native, Flask, FastAPI, Firebase, PostgreSQL, Svelte, Node.js"/>
 
 **ML & data**<br/>
-<img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn" alt="PyTorch, OpenCV, scikit"/>
-&nbsp; NumPy · pandas · scikit-image · Cellpose · Jupyter
+<img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn" alt="PyTorch, OpenCV, scikit-learn"/><br/>
+<img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+<img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img alt="scikit-image" src="https://img.shields.io/badge/scikit--image-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+<img alt="Cellpose" src="https://img.shields.io/badge/Cellpose-2E7D32?style=for-the-badge&logo=python&logoColor=white">
+<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
 
 **Tools & hardware**<br/>
-<img src="https://skillicons.dev/icons?i=git,docker,aws,azure,arduino,linux,androidstudio,xcode" alt="Git, Docker, AWS, Azure, Arduino, Linux, Android Studio, Xcode"/>
+<img src="https://skillicons.dev/icons?i=git,docker,aws,azure,arduino,linux,androidstudio" alt="Git, Docker, AWS, Azure, Arduino, Linux, Android Studio"/><br/>
+<img alt="Xcode" src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white">
 
 ---
 

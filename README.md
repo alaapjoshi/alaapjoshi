@@ -81,11 +81,11 @@
       <a href="https://github.com/alaapjoshi/PT-Home">Code</a> · <a href="https://devpost.com/software/pt-home">Devpost</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/alaapjoshi/robowatch"><img src="https://raw.githubusercontent.com/alaapjoshi/robowatch/HEAD/docs/images/cover.png" alt="RoboWatch"/></a>
-      <h4><a href="https://github.com/alaapjoshi/robowatch">RoboWatch</a> · FRC Team 75, 2024 season</h4>
-      A scouting app for FIRST Robotics: a six-step match form, a tap-to-log field map, QR handoff, Firestore upload and The Blue Alliance lookups.
+      <a href="https://github.com/alaapjoshi/MindWell"><img src="https://raw.githubusercontent.com/alaapjoshi/MindWell/HEAD/docs/images/cover.png" alt="MindWell"/></a>
+      <h4><a href="https://github.com/alaapjoshi/MindWell">MindWell</a> · United Hacks 2023</h4>
+      A mental-wellness app with an AI companion, a daily mood log and meditation, plus a Discord bot that classifies message emotion.
       <br/><br/>
-      <a href="https://github.com/alaapjoshi/robowatch">Code</a>
+      <a href="https://github.com/alaapjoshi/MindWell">Code</a>
     </td>
   </tr>
   <tr>

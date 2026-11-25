@@ -26,6 +26,22 @@
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/alaapjoshi/beam"><img src="https://raw.githubusercontent.com/alaapjoshi/beam/HEAD/docs/images/cover.png" alt="Beam"/></a>
+      <h4><a href="https://github.com/alaapjoshi/beam">Beam</a> · Native macOS app</h4>
+      A lightweight Command-Space launcher that finds and opens apps by typing a few letters, with a Liquid Glass UI.
+      <br/><br/>
+      <a href="https://github.com/alaapjoshi/beam">Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/alaapjoshi/snip"><img src="https://raw.githubusercontent.com/alaapjoshi/snip/HEAD/docs/images/cover.png" alt="Snip"/></a>
+      <h4><a href="https://github.com/alaapjoshi/snip">Snip</a> · Native macOS app</h4>
+      Cut one video into clips, remove the parts you don't want, and export an MP4. Built with AVFoundation.
+      <br/><br/>
+      <a href="https://github.com/alaapjoshi/snip">Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <a href="https://github.com/alaapjoshi/Haven"><img src="https://raw.githubusercontent.com/alaapjoshi/Haven/HEAD/docs/images/cover.png" alt="Haven"/></a>
       <h4><a href="https://github.com/alaapjoshi/Haven">Haven</a> · 1st Place Overall, MontyHacks VII</h4>
       DIY home security. An Arduino ultrasonic sensor trips the alarm, a webcam running YOLOv5 captures detections, and both feed Firebase and a React Native app.
@@ -74,6 +90,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/alaapjoshi/PaperPilot"><img src="https://raw.githubusercontent.com/alaapjoshi/PaperPilot/HEAD/docs/images/cover.png" alt="PaperPilot"/></a>
       <h4><a href="https://github.com/alaapjoshi/PaperPilot">PaperPilot</a></h4>
       Draw an instrument on paper, scan it with Gemini, and play it with your fingers through a live camera.
       <br/><br/>
